@@ -42,11 +42,11 @@ This project replicates the visual layout of Netflix with multiple categories of
 
 ## 🧩 How It Works
 
-The app fetches or loads a list of movies and series
-Content is displayed in horizontal rows
-Each row represents a category
-Only poster images are displayed
-No interaction is available on the posters
+- The app fetches or loads a list of movies and series
+- Content is displayed in horizontal rows
+- Each row represents a category
+- Only poster images are displayed
+- No interaction is available on the posters
 
 ## 📸 Features Details
 
